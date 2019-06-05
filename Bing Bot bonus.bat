@@ -1,0 +1,9 @@
+start https://www.microsoft.com/bingis10?id=41
+start https://www.microsoft.com/bingis10?id=118
+start https://www.microsoft.com/bingis10?id=54
+start https://www.microsoft.com/bingis10?id=17
+start https://www.microsoft.com/bingis10?id=158
+start https://www.microsoft.com/bingis10?id=117
+start https://www.microsoft.com/bingis10?id=166
+start https://www.microsoft.com/bingis10?id=187
+start https://www.microsoft.com/bingis10?id=165

@@ -9,4 +9,4 @@ Bing Bot Auto:
 Automatically runs 30 searches Then kills your browser (uses Chrome)
 
 Bing Bot Bonus:
-Bings Birthday is this week, they are giving extra pints, Enjoy
+Bings Birthday is this week, they are giving extra points, Enjoy

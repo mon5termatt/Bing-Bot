@@ -2,9 +2,9 @@
 Automated Microsoft Rewards Bot
 
 
-Bing Bot 7 Options: 
+Bing Bot 8 Options: 
 
-Browser Choice (Firefox, Chrome, "Bing Bot Browser*", or Edge ``eww``)
+Runs a customizable amount of searches in the BBB*
 
 Search Amount Choice (1-30) (0P-150P)
 

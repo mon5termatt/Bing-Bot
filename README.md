@@ -1,16 +1,24 @@
 # Bing-Bot
 Automated Microsoft Rewards Bot
 
-
-Bing Bot 8 Options: 
-
+## Bing Bot 9
+Options: 
 Runs a customizable amount of searches in the BBB*
-
 Search Amount Choice (1-30) (0P-150P)
 
-Bing Bot Auto:
+## Bing Bot 9 Auto:
+Automatically runs 30 searches Then kills your browser 
 
-Automatically runs 30 searches Then kills your browser (uses Bing Bot Browser* )
+
+## Bing Bot 9 
+Runs a customizable amount of searches in the The New Microsoft Edge app (Chromium)
+Search Amount Choice (1-30) (0P-150P)
+
+## Bing Bot 10 Auto:
+Automatically runs 30 searches Then kills your browser (Uses The New Microsoft Edge)
+
+
+
 
 
 #### * Bing Bot Browser (BBB)

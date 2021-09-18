@@ -10,7 +10,7 @@ timeout 5 > Nul
 goto:count1
 :count1
 rem CenterSelf
-mode con:cols=30 lines=4
+mode con:cols=35 lines=4
 SET /A wait=(%RANDOM%*9/32768)+1
 SET /a _rand=(%RANDOM%*5000/32768)+1
 SET /a made=made+1

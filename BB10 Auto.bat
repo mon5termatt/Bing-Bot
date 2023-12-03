@@ -2,7 +2,7 @@
 mode con:cols=80 lines=4
 set ver=10A
 set made=0
-set total=30
+set total=35
 cls
 echo. Starting Browser, Please Wait
 start microsoft-edge:

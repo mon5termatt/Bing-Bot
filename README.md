@@ -1,6 +1,11 @@
 # Bing-Bot
 Automated Microsoft Rewards Bot
 
+The script is no longer being maintained due to Microsoft completely reworking the search system. in theory it still works however it may not work as well. rest in peace Microsoft rewards.
+
+
+old description
+<details>
 ## Bing Bot 9
 Options: 
 Runs a customizable amount of searches in the BBB*
@@ -26,3 +31,4 @@ Bing Bot Browser is a customized version of the Kmeleon Browser that comes packa
 
 This Browser can be found here for download at http://kmeleonbrowser.org/
 
+</details>
